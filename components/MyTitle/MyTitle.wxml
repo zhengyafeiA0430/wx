@@ -1,0 +1,19 @@
+<!--components/My Tab/MyTab.wxml-->
+<view class="my_title">
+<!-- logo -->
+<navigator>
+<image class="logo" style="width:140rpx;height:60rpx;"  src="../../icon/5.jpg"></image>
+</navigator>
+<!-- 搜索 -->
+<view>
+<image class="logo" style="width:60rpx;height:44rpx;"   src="../../icon/3.png"></image>
+</view>
+<!-- 用户 -->
+<view>
+<image class="user_icon"  style="width:54rpx;height:60rpx;" src="../../icon/4.png"></image>
+</view>
+<!-- 下载按钮 -->
+<view class="down_app">
+下载 APP
+</view>
+</view>

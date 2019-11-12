@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "正视",
+  "usingComponents": {
+    "MyTitle":"../../components/MyTitle/MyTitle"
+  }
+}
